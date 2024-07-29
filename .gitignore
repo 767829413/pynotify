@@ -1,0 +1,10 @@
+# 忽略虚拟环境文件夹
+myenv/
+
+# 忽略 Python 字节码文件
+__pycache__/
+*.py[cod]
+
+# 忽略其他不需要版本控制的文件
+.vscode/
+*.log
